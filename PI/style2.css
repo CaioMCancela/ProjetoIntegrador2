@@ -1,0 +1,30 @@
+#cadastro2{
+    font-family: 'Inria Serif',sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #1DBF3B;
+    width: 450px;
+    height: 500px;
+    background-color: #ffffff;
+}
+
+#cadastro2 button{
+    background-color: #1DBF3B;
+    color: #ffffff;
+    width: 180px;
+    height: 50px;
+    font-size: 26px;
+    border: none;
+    margin:15px;
+}
+#cadastro2 button:active{
+    background-color: #e9e9e9;
+}
+#cadastro2 p{
+    font-size: 32px;
+    color: #1DBF3B;
+    margin: 20px;
+}
+
